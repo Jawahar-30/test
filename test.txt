@@ -1,1 +1,9 @@
 hi! I'm learning git
+
+
+git cmds learnt today
+
+
+add
+commit
+push
